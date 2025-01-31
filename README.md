@@ -57,4 +57,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DJK101/DJK101/output/snake.svg" alt="Snake animation" />
 </div>
-###

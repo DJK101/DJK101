@@ -1,4 +1,3 @@
-<h2 align="left">Hi 👋! My name is DJ and I'm a Software Engineer, from Ireland</h2>
 
 ###
 
